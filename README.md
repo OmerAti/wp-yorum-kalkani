@@ -33,7 +33,7 @@ Bu WordPress eklentisi, yorum alanınızı spam yorumlardan korumak için çok k
 ---
 
 🔹 **Lisans:** GPLv3  
-🔹 **Destek:** [Destek Sayfası](https://github.com/OmerAti/wp-yorum-guvenlik-kalkani/issues)  
+🔹 **Destek:** [Destek Sayfası](https://github.com/OmerAti/wp-yorum-kalkani/issues)  
 🔹 **Katkıda Bulunun:** PR'larınızı bekliyoruz!  
 
 > "Spam yorumlara son, gerçek etkileşime merhaba!" ✨
