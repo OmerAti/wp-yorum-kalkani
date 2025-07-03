@@ -1,0 +1,74 @@
+.ygk-admin-wrap {
+    max-width: 700px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: #fff;
+    padding: 20px 30px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    border-radius: 12px;
+    margin-top: 30px;
+}
+.ygk-admin-wrap h1 {
+    font-weight: 700;
+    font-size: 1.9em;
+    color: #0073aa;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.ygk-admin-wrap h1 .dashicons {
+    font-size: 1.7em;
+}
+.ygk-admin-form .form-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 15px;
+}
+.ygk-admin-form th {
+    text-align: left;
+    vertical-align: top;
+    font-weight: 600;
+    color: #333;
+    padding-right: 15px;
+    width: 190px;
+    font-size: 1.1em;
+}
+.ygk-admin-form td {
+    padding: 0;
+}
+.ygk-textarea {
+    width: 100%;
+    font-family: monospace;
+    font-size: 14px;
+    padding: 10px;
+    border: 2px solid #0073aa;
+    border-radius: 8px;
+    resize: vertical;
+    transition: border-color 0.3s ease;
+}
+.ygk-textarea:focus {
+    border-color: #005177;
+    outline: none;
+}
+.ygk-input {
+    width: 100%;
+    font-family: monospace;
+    font-size: 14px;
+    padding: 10px;
+    border: 2px solid #0073aa;
+    border-radius: 8px;
+    transition: border-color 0.3s ease;
+}
+.ygk-input:focus {
+    border-color: #005177;
+    outline: none;
+}
+.ygk-button {
+    font-size: 1.1em;
+    padding: 10px 25px;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0,115,170,0.5);
+}
+.ygk-button:hover {
+    background-color: #005177;
+    box-shadow: 0 6px 20px rgba(0,81,119,0.7);
+}
