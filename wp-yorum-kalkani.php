@@ -43,7 +43,7 @@ function wp_yorum_kalkani_ayar_sayfasi() {
     $ipler = get_option('ygk_yasakli_ipler', '');
     $linkler = get_option('ygk_yasakli_linkler', 'ru,cn,tk,ml,gq');
     $honeypot = get_option('ygk_honeypot_aktif', 1);
-    $min_sure = get_option('ygk_min_sure', 5);
+    $min_sure = get_option('ygk_min_sure', 10);
 
     ?>
     <div class="wrap ygk-admin-wrap">
